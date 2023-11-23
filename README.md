@@ -118,7 +118,7 @@ The code is hosted on [GitHub](https://github.com/ejovwogfreeman/simplebks-asses
 
 ### Contributors
 
-- Ejovwo Godbless (ejovwogfreeman007@gmail.com)
+- [Ejovwo Godbless](https://github.com/ejovwogfreeman) (ejovwogfreeman007@gmail.com)
 
 Feel free to open issues or submit pull requests for improvements and bug fixes. Your contributions are welcome!
 
