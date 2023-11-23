@@ -21,7 +21,7 @@ const importCsvToMongo = async (Model, csvFilePath) => {
           await Model.insertMany(batch, { timeout: 60000 });
         }
 
-        console.log("Data from imported successfully to");
+        console.log("Data from imported successfully");
       });
   } catch (error) {
     console.error("Error importing data", error);
