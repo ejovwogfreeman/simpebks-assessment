@@ -122,4 +122,4 @@ The code is hosted on [GitHub](https://github.com/ejovwogfreeman/simplebks-asses
 
 Feel free to open issues or submit pull requests for improvements and bug fixes. Your contributions are welcome!
 
-Note: The .env file has been made public to facilitate testing.s
+Note: The .env file has been made public to facilitate testings
